@@ -1,16 +1,5 @@
 # drum_music
+Drum Music Application, come on let,s Drum -_-!
+[Screenshot_1662621538](https://user-images.githubusercontent.com/107408431/189292756-acae7bfe-b367-460e-aebf-f5d608cac5fa.png)
+![Screenshot_1662558499](https://user-images.githubusercontent.com/107408431/189292789-5df83e20-ad67-41eb-942e-4d9b1d2849c4.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
